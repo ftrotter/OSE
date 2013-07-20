@@ -44,7 +44,8 @@ Please read this License carefully before accessing or using the licensed Things
   1. You may not put the Things or the "source" files for the Thing on the Internet for download.
   2. You may not use this code to offer a service to persons outside your organization.
   3. You may not transfer your rights under this license to another individual or other entity. Each entity must buy a seperate copy of this license to use or modify the Thing(s), until this license has reverted to the Target License. At that time then contents of the Target License will dictate your right to republish the Thing(s)
-2. _Post-Release Products._ On the Effective Date, the terms of this license will be replaced entirely by the terms of the license found in the TARGETLICENSE file. This file must be a Free/Libre Open Source License or a Creative Commons License as defined on one of the following sites:
+2. _Extra Stuff you might have paid for._ This license is intentionally restrictive. The Licensor might have sold you extra privileges that are not provided for here. If the Licensor has provided you with extra privileges, warranties or other things which contradict your Pre-release rights under this document, those will be listed in a file called EXTRASTUFF.txt The contents of EXTRASTUFF.txt can provide you with extra privileges, but will not impact the conversion of this document into an Free/Libre Open Source Document. If no EXTRASTUFF.txt file exists, then you only have the rights described in this document until the license conversion occurs.
+3. _Post-Release Products._ On the Effective Date, the terms of this license will be replaced entirely by the terms of the license found in the TARGETLICENSE file. This file must be a Free/Libre Open Source License or a Creative Commons License as defined on one of the following sites:
 
 * http://www.gnu.org/licenses/
 * http://opensource.org/licenses
