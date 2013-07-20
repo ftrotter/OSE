@@ -1,0 +1,2 @@
+The license for this is found in the file OSELicense.md
+
