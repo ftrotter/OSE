@@ -74,3 +74,9 @@ The terms
 
 And really, any other combination of Open Source Eventually Licnese and Not Only For Profit Development are trademarks used to refer exclusively to this license or other later versions of this license as released by Not Only Development, LLC and/or Fred Trotter. If you would like to use the term Open Source Eventually, then please also use these licenses, without modification. If you would like to use the idea, but want to change the contents of the license, then please use some other term than "Open Source Eventually" etc to refer to your new license. It is important to us that the developer and user community can rely on this licensing model as safe and reliable extension of the licenses that are already approved by the Creative Commons, the Free Software Foundation and the Open Source Initiative, so we will strictly enforce our trademark and copyright licenses in order to ensure that there are no "look-a-like" licenses here.
 
+In the event that You have downloaded this document, and you find it differs from the latest version of the NOD Open Source Eventually License available at
+
+https://github.com/ftrotter/OSE/
+
+Then you can elect to use the latest version of the NOD Open Source Eventually License from that site, in the place of this one. However, this will not change the TARGETLICENSE or CONVERSIONDATE as defined by the Licensor.
+
