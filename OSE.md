@@ -9,7 +9,7 @@ This license limits your freedom to share the Thing(s) (software, hardware, art,
 
 The files associated with the Thing(s) in question should include:
 
-* OSELicense.txt -> This license without modification.
+* OSELicense.md -> This license without modification.
 * TARGETLICENSE.txt -> The Open Source License that this license will convert to.
 * CONVERSTIONDATE.txt -> A file containing the date that conversion will take place
 * COPYRIGHT.txt -> A file listing the Thing(s) copyright holder including an email address
