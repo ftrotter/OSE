@@ -58,6 +58,8 @@ The Licensor is protected by fairly restritive terms for project use, before the
 ### How NOD OSE protects end-users
 
 Generally, end-users of licenses need to be protected against Licensors who do no understand the rules of mass-licensing (i.e. peer review of licenses produces trustable known-good options for both creators and consumers)
+   * It forces Licensors to describe exactly what FOSS license is being used and when it takes effect.
+   * It is not a "promise that an Open Source release will occur" the OSE conversion is automatic and cannot be taken back by the Licensor.
    * Strict terms ensure that Licensors cannot change how the license works and still call it the "NOD Open Source Eventually License"
    * If a Licensor fails to define the conversion date, then the conversion date is automatically two years from download date
    * If a Licensor picks an unreasonable time in the future, then the conversion date is automatically set two years from the download date
