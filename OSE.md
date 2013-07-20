@@ -1,4 +1,3 @@
-<!--Begin Open Source Eventually License-->
 ##NOD Open Source Eventually License
 Version 0.20
 
@@ -17,10 +16,10 @@ The files associated with the Thing(s) in question should include:
 
 The functioning of this license is simple. Creators (Licensors) make the Thing(s) (software/hardware/whatever) and then release them using these files, which detail what Open Source License the Thing(s) will convert to and when that conversion occurs. Further clarifications are included in the legalspeek below.
 
-<!-- License Description -->
+
 Please read this License carefully before accessing or using the licensed Things.  By accessing or using the Things, you are agreeing to be bound by the terms of this License.  If you do not or cannot agree to the terms of this License, please do not access or use the Things. 
 
-<!-- License Definitions -->
+
 ###1. Definitions
 
 1. _Licensor._ The Licensor under this License is defined in the file called COPYRIGHT, that file describes how to contact the copyright owner. If this license is used without this file, the licenses is still valid.
@@ -73,5 +72,5 @@ The terms
 *  Open Source Eventually License&trade; and OSEL&trade;
 *  NOD Open Source Eventually License&trade; and NODOSEL&trade;
 
-And really, any othercombination of Open Source Eventually Licnese and Not Only For Profit Development are trademarks used to refer exclusively to this license or other later versions of this license as released by Not Only Development, LLC and/or Fred Trotter. If you would like to use the term Open Source Eventually, then please also use these licenses, without modification. If you would like to use the idea, but want to change the contents of the license, then please use some other term than "Open Source Eventually" etc to refer to your new license. It is important to us that the developer and user community can rely on this licensing model as safe and reliable extension of the licenses that are already approved by the Creative Commons, the Free Software Foundation and the Open Source Initiative, so we will strictly enforce our trademark and copyright licenses in order to ensure that there are no "look-a-like" licenses here.
+And really, any other combination of Open Source Eventually Licnese and Not Only For Profit Development are trademarks used to refer exclusively to this license or other later versions of this license as released by Not Only Development, LLC and/or Fred Trotter. If you would like to use the term Open Source Eventually, then please also use these licenses, without modification. If you would like to use the idea, but want to change the contents of the license, then please use some other term than "Open Source Eventually" etc to refer to your new license. It is important to us that the developer and user community can rely on this licensing model as safe and reliable extension of the licenses that are already approved by the Creative Commons, the Free Software Foundation and the Open Source Initiative, so we will strictly enforce our trademark and copyright licenses in order to ensure that there are no "look-a-like" licenses here.
 
