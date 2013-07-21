@@ -10,7 +10,7 @@ An Open Source Eventually License allows a creator to license copyrights (etc) t
 Background
 ------
 
-There have been a history of "Ransom" style licenses in the Open Source community. Recently, Not Only Development (NOD) has been releasing data sets under an Open Source Eventually style license.
+There have been a history of "<a href='http://freecode.com/articles/ransom-software-for-fun-and-profit'>Ransom</a>" style licenses in the Open Source community. Most notably the considerable work done by Zooko O'Whielacronx around the <a href='http://lists.debian.org/debian-legal/2009/02/msg00047.html'>Transitive Grace Period Public License</a>. He put forward the value proposition really well in a presentation. http://lists.debian.org/debian-legal/2009/02/msg00047.html   Recently, Not Only Development (NOD) has been releasing data sets under an Open Source Eventually style license.
 
 We first used the Open Source Eventually concept in our <a href='http://docgraph.org'>DocGraph</a> Crowdfund effort.
 
