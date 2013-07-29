@@ -64,12 +64,11 @@ Pre-Release Products shall no longer be covered by this License and
 revert to a specified Open-Source license. The Conversion Date is the
 earlier of a) the specific date detailed in the CONVERSIONDATE or b)
 twenty four months from the Effective Date herein.
-4.  _Target License._ The reversionary license for the Pre-Release
-Products (the "Target License") shall be the
-`Creative Commons Share Alike` license, and if such license is
-determined to be legally insufficient by a Court with relevant
-jurisdiction, then the Pre-Release Products shall be released into the
-public domain.
+4.  _Target License._ The conversion license is a Free/Libre Open Source
+license as defined below. If this license is found to be invalid in
+court through no fault of the Licensor, the Licensor may replace it with
+another Free/Libre Open Source license that meets the definition listed
+below.
 5.  _Additional Definitions._ As used in this License:
 6.  "Effective Date" means the date You accept this License.
 7.  "Applicable Rights" mean: (a) in the case where Licensor is the
@@ -130,14 +129,30 @@ non-exclusive license, to the extent of Licensor's Applicable Rights and
 copyrights for the Covered Products: to use, copy, modify, merge,and/or
 internally deploy copies of the Pre-Release Products within your
 organization subject to the following conditions:
-2.  You must not put the Things or the source files on the Internet for
-a costless download
-3.  You may not transfer your rights under this license to another
-individual or other entity. Each entity must buy a seperate copy of this
-license to use or modify the Thing(s), until this license has reverted
-to the Target License. That that time then contents of the Target
-License will dictate your right to republish the Thing(s)
-4.  _Post-Release Products._ On the Effective Date, the terms of this
+2.  This license alone does not allow you to put the Things or the
+"source" files for the Thing on the Internet for download.
+3.  This license alone does not allow you to use this code to offer a
+service to persons outside your organization.
+4.  This license alone does not give You the right to use trademarks
+from the Licensor in marketing to your clients, or otherwise imply that
+the Licensor is endorsing you, your services or your company.
+5.  This license alone does not give you the ability to transfer your
+rights under this license to another individual or other entity. Each
+entity must buy a seperate copy of this license to use or modify the
+Thing(s), until this license has reverted to the Target License. At that
+time then contents of the Target License will dictate your right to
+republish the Thing(s)
+6.  _Extra Stuff you might have paid for._ This license is intentionally
+restrictive. The Licensor might have sold you extra privileges that are
+not provided for here. If the Licensor has provided you with extra
+privileges, warranties or other things which contradict your Pre-release
+rights under this document, those will be listed in a file called
+EXTRASTUFF.txt The contents of EXTRASTUFF.txt can provide you with extra
+privileges, but will not impact the conversion of this document into an
+Free/Libre Open Source Document. If no EXTRASTUFF.txt file exists, then
+you only have the rights described in this document until the license
+conversion occurs.
+7.  _Post-Release Products._ On the Effective Date, the terms of this
 license will be replaced entirely by the terms of the license found in
 the TARGETLICENSE file. This file must be a Free/Libre Open Source
 License or a Creative Commons License as defined on one of the following
