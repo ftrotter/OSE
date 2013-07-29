@@ -59,7 +59,7 @@ The Licensor is protected by fairly restritive terms for project use, before the
    * The user cannot offer a download of the Thing
    * The user cannot offer a service around the Thing
    * It is limited to internal use by the end user only
-   * Sometimes, a Licensor might want to sell additional privileges for more money. In that case, there is a file called EXTRASTUFF.txt where extra privileges or support warranties etc etc can be defined
+   * Sometimes, a Licensor might want to sell additional privileges for more money. In that case, there is a file called STARTINGLICENSE.txt where extra privileges or support warranties etc etc can be defined
 
 ### How NOD OSE protects end-users
 
