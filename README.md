@@ -22,7 +22,11 @@ A few months after that, Monty Widenius (of <a href='https://mariadb.org/'>Maria
  
 My Itch
 ------
-I (Fred Trotter) have had fairly extensive experience working with and evaluating Open Source Free/Libre licenses and I know a couple of ways that you can get "burned" by vanity licenses that are poorly written, mangled into proprietary licenses or otherwise abused. The article from Monty essentially recommends a "vanity license" in that it suggests that this licensing strategy be undertaken in a one-off manner. I have been burned by vanity licenses several times. Rather than have hundreds of slightly different ways to do "Open Source on a timer", I would prefer to have a formal, reliable license that is trusted community wide for delaying Open Source releases for fun and profit!!!
+I (Fred Trotter) have had fairly extensive experience working with and evaluating Open Source Free/Libre licenses and I know a couple of ways that you can get "burned" by vanity licenses that are poorly written, mangled into proprietary licenses or otherwise abused. One of the problems with vanity licenses is that it is impossible to programmatically ensure license compliance. 
+
+Many community members have been burned by vanity licenses. Rather than have hundreds of slightly different ways to do "Open Source on a timer", I would prefer to have a formal, reliable license that is trusted community wide for delaying Open Source releases for fun and profit!!!
+
+In order to enable programatic compliance efforts, license files must be text-identical, and if you have a different date embedded in each licence file then you have to write code to ensure that the files have identical licensing requirements. The approach that we are taking here ensures that each file can be evaluated programmatically, with simple checksums most of the time. Only the date file should have changing data and then only the date itself should change.
 
 Features
 ------
@@ -36,7 +40,7 @@ This will be a peer reviewed license. Please follow <a href='http://twitter.com/
 * It is not possible to have a formal peer evaluation of a license that can be modified on a per-licensee basis. 
    * This means that the core license file cannot change, which means...
    * No changeable dates in the core file, dates in a seperate file called CONVERSIONDATE.txt
-   * No changeable terms in the core file, any extra, less restrictive terms are found in EXTRASTUFF.txt
+   * No changeable terms in the core file, any custom proprietary terms are found in STARTINGLICENSE.txt
    * This lets us ensure that the core licenses is word-for-word identical very easily (programatically even)
    
 ### Not Reinventing
@@ -45,6 +49,8 @@ There are well-established mechanisms for communicating licensing within our com
 
    * We have used the files LICENSE.txt, README.txt and COPYRIGHT.txt as the default mechanism for communicating project licensing
    * This project merely extends that practice with several new files
+   * We use Asciidoc to write the file itself, to be compliant with meta-legal programming efforts
+   * We are trying to work with meta-programming efforts like Common Accord http://commonaccord.org
 
 ### How NOD OSE protects creators
 
@@ -77,8 +83,5 @@ By pulling dates and privileges into seperate files from the core license, we in
     
 Lets say you want to seperately sell the privileges of A. Offering a service to the web with your code. B. Allow resellers to resell the pre-Open Source codebase or C. Allow your customers to market their use of your software. You can auto-generate the EXTRASTUFF.txt file to fit with your specific needs. 
     
-Alternatively, you might want to give different dates to every downloader. To do this, simply have a script write the the date in the CONVERSTIONDATE.txt file.
-    
-    
-
+Alternatively, you might want to give different dates to every downloader. To do this, simply have a script write the the date in the CONVERSTIONDATE.txt file. 
 
