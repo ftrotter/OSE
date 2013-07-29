@@ -1,8 +1,12 @@
-[[nod-open-source-eventually-license]]
-NOD Open Source Eventually License
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+= NOD Open Source Eventually License
+Fred Trotter <fred.trotter@gmail.com>
+:Author: Fred Trotter
+:Revision: .3
 
-Version 0.20
+
+= NOD Open Source Eventually License
+
+Version {revision}
 
 [[preamble]]
 Preamble
@@ -28,7 +32,8 @@ terms of an Open Source License.
 The files associated with the Thing(s) in question should include:
 
 * OSELicense.txt -> This license without modification.
-* TARGETLICENSE.txt -> The Open Source License that this license will
+* STARTINGLICENSE.txt -> An optional file containing permissions and restrictions that apply before the conversion to the end license
+* ENDLICENSE.txt -> The Open Source License that this license will
 convert to.
 * CONVERSTIONDATE.txt -> A file containing the date that conversion will
 take place
@@ -60,10 +65,11 @@ Licensor makes available and which contains a notice placed by Licensor
 identifying such work as subject to the terms of this Open Source
 Eventually License (the "License").
 3.  _Conversion Date._ The Conversin Date is the date upon which the
-Pre-Release Products shall no longer be covered by this License and
+Pre-Release Products shall no longer be covered by this License and/or 
+the restrictions in the STARTINGLICENSE file and
 revert to a specified Open-Source license. The Conversion Date is the
 earlier of a) the specific date detailed in the CONVERSIONDATE or b)
-twenty four months from the Effective Date herein.
+five years from the Effective Date herein.
 4.  _Target License._ The conversion license is a Free/Libre Open Source
 license as defined below. If this license is found to be invalid in
 court through no fault of the Licensor, the Licensor may replace it with
@@ -147,9 +153,9 @@ restrictive. The Licensor might have sold you extra privileges that are
 not provided for here. If the Licensor has provided you with extra
 privileges, warranties or other things which contradict your Pre-release
 rights under this document, those will be listed in a file called
-EXTRASTUFF.txt The contents of EXTRASTUFF.txt can provide you with extra
+STARTINGLICENSE.txt The contents of STARTINGLICENSE.txt can provide you with extra
 privileges, but will not impact the conversion of this document into an
-Free/Libre Open Source Document. If no EXTRASTUFF.txt file exists, then
+Free/Libre Open Source Document. If no STARTINGLICENSE.txt file exists, then
 you only have the rights described in this document until the license
 conversion occurs.
 7.  _Post-Release Products._ On the Effective Date, the terms of this
@@ -162,7 +168,7 @@ sites:
 * http://opensource.org/licenses
 * http://creativecommons.org/licenses/
 
-If the Licensor fails to include a copy of the TARGETLICENSE with the
+If the Licensor fails to include a copy of the TARGETLICENSE when you aquire your copy of the
 Thing(s) then You have the right to release the Thing(s) under both the
 Affero General Public License and the Creative Commons Share-Alike
 Attribution License:
@@ -175,15 +181,16 @@ should be a file titled CONVERSIONDATE. That file shall list the date
 when this License shall convert to the Target License. However, that
 converstion date shall be no more than two years from the Download Date.
 If the CONVERSIONDATE file is missing, or unreadable or has date more
-than two years from when you downloaded the data: You have the right to
+than five years from when you downloaded the data: You have the right to
 create a new file called DOWNLOADDATE, that records the date which you
 dowloaded the file. In order to prevent conflict please send the creator
 of the Thing(s), and another public mailing list (i.e. the Thing(s)
 community email list) an email indicating that you had to create a
 DOWNLOADATE file for your purchase and that you will convert the license
-two years after that date. The DOWNLOADDATE file for your purchase can
+two years after that date. This email should include a copy of your reciept for your purchase of the Thing(s)
+in question. The DOWNLOADDATE file for your purchase can
 only be set to the date of your public email indicating that you are
-using this option.
+using this option, and not the date mentioned on the receipt. 
 
 [[other-provisions]]
 3. Other Provisions
