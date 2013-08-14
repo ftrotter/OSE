@@ -35,16 +35,16 @@ The files associated with the Thing(s) in question should include:
 * STARTINGLICENSE.txt -> An optional file containing permissions and restrictions that apply before the conversion to the end license
 * ENDLICENSE.txt -> The Open Source License that this license will
 convert to.
-* CONVERSTIONDATE.txt -> A file containing the date that conversion will
+* CONVERSTIONDATE.txt -> A file containing the date when conversion will
 take place
-* COPYRIGHT.txt -> A file listing the Thing(s) copyright holder
+* COPYRIGHT.txt -> A file listing copyright holder(s) of the Thing(s)
 including an email address
 
 The functioning of this license is simple. Creators (Licensors) make the
 Thing(s) (software/hardware/whatever) and then release them using these
 files, which detail what Open Source License the Thing(s) will convert
 to and when that conversion occurs. Further clarifications are included
-in the legalspeek below.
+in the legalspeak below.
 
 Please read this License carefully before accessing or using the
 licensed Things. By accessing or using the Things, you are agreeing to
@@ -57,15 +57,15 @@ the terms of this License, please do not access or use the Things.
 
 1.  _Licensor._ The Licensor under this License is defined in the file
 called COPYRIGHT, that file describes how to contact the copyright
-owner. If this license is used without this file, the licenses is still
+owner(s). If this license is used without this file, the license is still
 valid.
 2.  _Applicability._ This License applies to any data, software,
 hardware, bioware, art, program or other work (the "Things(s)") which
 Licensor makes available and which contains a notice placed by Licensor
 identifying such work as subject to the terms of this Open Source
 Eventually License (the "License").
-3.  _Conversion Date._ The Conversin Date is the date upon which the
-Pre-Release Products shall no longer be covered by this License and/or 
+3.  _Conversion Date._ The Conversion Date is the date upon which the
+Pre-Release Products shall no longer be covered by this License and/or
 the restrictions in the STARTINGLICENSE file and
 revert to a specified Open-Source license. The Conversion Date is the
 earlier of a) the specific date detailed in the CONVERSIONDATE or b)
@@ -99,11 +99,11 @@ indirectly, to anyone solely inside Your organization.
 otherwise make the Thing(s) available, directly or indirectly, to anyone
 other than You; and/or (b) to use the Thing(s), alone or as part of a
 Larger Work, in any way to provide a service, including but not limited
-to delivery of content, through electronic communication with a anyone
+to delivery of content, through electronic communication with anyone
 other than You.
 11. "Larger Work" means a work which combines the Things or portions
 thereof with material not governed by the terms of this License.
-12. "Modifications" mean any addition to, deletion from, and/or change
+12. "Modifications" means any addition to, deletion from, and/or change
 to, the substance and/or structure of the Things, any previous
 Modifications, the combination of Things and any previous Modifications,
 and/or any respective portions thereof. When material is released as a
@@ -132,7 +132,7 @@ Pre-Release Things.
 License and to such royalties or fees assessed by Licensor, Licensor
 hereby grants You, beginning on the Effective Date, a world-wide,
 non-exclusive license, to the extent of Licensor's Applicable Rights and
-copyrights for the Covered Products: to use, copy, modify, merge,and/or
+copyrights for the Covered Products: to use, copy, modify, merge, and/or
 internally deploy copies of the Pre-Release Products within your
 organization subject to the following conditions:
 2.  This license alone does not allow you to put the Things or the
@@ -144,10 +144,10 @@ from the Licensor in marketing to your clients, or otherwise imply that
 the Licensor is endorsing you, your services or your company.
 5.  This license alone does not give you the ability to transfer your
 rights under this license to another individual or other entity. Each
-entity must buy a seperate copy of this license to use or modify the
+entity must buy a separate copy of this license to use or modify the
 Thing(s), until this license has reverted to the Target License. At that
 time then contents of the Target License will dictate your right to
-republish the Thing(s)
+republish the Thing(s).
 6.  _Extra Stuff you might have paid for._ This license is intentionally
 restrictive. The Licensor might have sold you extra privileges that are
 not provided for here. If the Licensor has provided you with extra
@@ -168,7 +168,7 @@ sites:
 * http://opensource.org/licenses
 * http://creativecommons.org/licenses/
 
-If the Licensor fails to include a copy of the TARGETLICENSE when you aquire your copy of the
+If the Licensor fails to include a copy of the TARGETLICENSE when you acquire your copy of the
 Thing(s) then You have the right to release the Thing(s) under both the
 Affero General Public License and the Creative Commons Share-Alike
 Attribution License:
@@ -179,18 +179,18 @@ Attribution License:
 1.  _Calculating the Conversion Date._ Along with this file, there
 should be a file titled CONVERSIONDATE. That file shall list the date
 when this License shall convert to the Target License. However, that
-converstion date shall be no more than two years from the Download Date.
+conversion date shall be no more than two years from the Download Date.
 If the CONVERSIONDATE file is missing, or unreadable or has date more
 than five years from when you downloaded the data: You have the right to
 create a new file called DOWNLOADDATE, that records the date which you
 dowloaded the file. In order to prevent conflict please send the creator
 of the Thing(s), and another public mailing list (i.e. the Thing(s)
 community email list) an email indicating that you had to create a
-DOWNLOADATE file for your purchase and that you will convert the license
-two years after that date. This email should include a copy of your reciept for your purchase of the Thing(s)
+DOWNLOADDATE file for your purchase and that you will convert the license
+two years after that date. This email should include a copy of your receipt for your purchase of the Thing(s)
 in question. The DOWNLOADDATE file for your purchase can
 only be set to the date of your public email indicating that you are
-using this option, and not the date mentioned on the receipt. 
+using this option, and not the date mentioned on the receipt.
 
 [[other-provisions]]
 3. Other Provisions
@@ -208,9 +208,9 @@ such Covered Things under the terms of any subsequent version of this
 License published by NOD.
 2.  _For original works only._ This license is not, itself, an Open
 Source license. This cannot be used to meet obligations under Open
-Source Licenese. If the Licensor of the Thing(s) was obligated to
-release the Things(s) because of another Open Source licenses, this
-licenses does not fulfill that obligation. (i.e. if you download Linux,
+Source License. If the Licensor of the Thing(s) was obligated to
+release the Things(s) because of another Open Source license, this
+license does not fulfill that obligation. (i.e. if you download Linux,
 which is under the GPLv2, and modify it, the Licensor cannot use this
 license to do a GPL v2 OSE release, because the GPLv2 does not give the
 Licensor the right to do that.
@@ -235,7 +235,7 @@ Copyright (C) 2013 Not Only Development Inc. The terms * Open Source
 Eventually™ and OSE™ * Open Source Eventually License™ and OSEL™ * NOD
 Open Source Eventually License™ and NODOSEL™
 
-And really, any other combination of Open Source Eventually Licnese and
+And really, any other combination of Open Source Eventually License and
 Not Only For Profit Development are trademarks used to refer exclusively
 to this license or other later versions of this license as released by
 Not Only Development, LLC and/or Fred Trotter. If you would like to use
