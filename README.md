@@ -1,9 +1,9 @@
 OSE
 =======
 
-The NOD Open Source Eventually License. 
+The NOD Open Source Eventually License.
 
-<a href='https://github.com/ftrotter/OSE/blob/master/OSELicense.md'>Click here to read the license!</a>
+<a href='https://github.com/ftrotter/OSE/blob/master/OSELicense.asciidoc'>Click here to read the license!</a>
 
 An Open Source Eventually License allows a creator to license copyrights (etc) to a user that will become Open Source on a particular date. This is good for the user, because they end up getting good Open Source stuff, and they eventually have the freedom to change how the stuff works! This is good for the creator because they can ensure that they can pay the bills. This works especially well for data, software or other projects which have to be updated regularly!
 
@@ -14,15 +14,15 @@ There have been a history of "<a href='http://freecode.com/articles/ransom-softw
 
 We first used the Open Source Eventually concept in our <a href='http://docgraph.org'>DocGraph</a> Crowdfund effort.
 
-A few months after that, Monty Widenius (of <a href='https://mariadb.org/'>MariaDB</a> fame) started calling this concept "Business Source". 
+A few months after that, Monty Widenius (of <a href='https://mariadb.org/'>MariaDB</a> fame) started calling this concept "Business Source".
 
 * Monty <a href='http://www.zdnet.com/open-source-its-true-cost-and-where-its-going-awry-by-monty-widenius-7000016024/'>interviewed on the concept with zdnet</a>
 * He wrote a blog post <a href='http://monty-says.blogspot.com/2013/06/business-source-software-license-with.html'>about the benifits of Business Source</a>.
-* Linus Nyman and Monty wrote <a href='http://timreview.ca/article/691'> a more formal description of the concept in TIM</a>. 
- 
+* Linus Nyman and Monty wrote <a href='http://timreview.ca/article/691'> a more formal description of the concept in TIM</a>.
+
 My Itch
 ------
-I (Fred Trotter) have had fairly extensive experience working with and evaluating Open Source Free/Libre licenses and I know a couple of ways that you can get "burned" by vanity licenses that are poorly written, mangled into proprietary licenses or otherwise abused. One of the problems with vanity licenses is that it is impossible to programmatically ensure license compliance. 
+I (Fred Trotter) have had fairly extensive experience working with and evaluating Open Source Free/Libre licenses and I know a couple of ways that you can get "burned" by vanity licenses that are poorly written, mangled into proprietary licenses or otherwise abused. One of the problems with vanity licenses is that it is impossible to programmatically ensure license compliance.
 
 Many community members have been burned by vanity licenses. Rather than have hundreds of slightly different ways to do "Open Source on a timer", I would prefer to have a formal, reliable license that is trusted community wide for delaying Open Source releases for fun and profit!!!
 
@@ -37,12 +37,12 @@ This will be a peer reviewed license. Please follow <a href='http://twitter.com/
 
 * We will be using <a href='http://www.co-ment.com/'>co-ment</a>, which is the grandchild of the software that was used to gather comments during the GPL v3 licensing writing process.
 * This should ensure that lots of lawyers (and not just ours) are comfortable with the text as a balance between user and creator interests.
-* It is not possible to have a formal peer evaluation of a license that can be modified on a per-licensee basis. 
+* It is not possible to have a formal peer evaluation of a license that can be modified on a per-licensee basis.
    * This means that the core license file cannot change, which means...
    * No changeable dates in the core file, dates in a seperate file called CONVERSIONDATE.txt
    * No changeable terms in the core file, any custom proprietary terms are found in STARTINGLICENSE.txt
    * This lets us ensure that the core licenses is word-for-word identical very easily (programatically even)
-   
+
 ### Not Reinventing
 
 There are well-established mechanisms for communicating licensing within our community(s). This license extends current best practices established by the FOSS community.
@@ -72,16 +72,16 @@ Generally, end-users of licenses need to be protected against Licensors who do n
    * (we are not sure about what an unreasonably long time is... for now it is also set to two years...)
    * If a Licensor fails to choose a license, then the end user can pick between the Creative Commons Share-Alike 2.0 and the AGPL.
    * The Licensor cannot use a vanity license and call it Open Source. They must choose one from the approved list from the FSF, OSI or Creative Commons.
-   
+
 ### Not focuses on just software
-We have tried to account for the different ways that hardware, software, bioware and art can be used, licensed and shared. 
+We have tried to account for the different ways that hardware, software, bioware and art can be used, licensed and shared.
 
 
 ### Script friendly
 
-By pulling dates and privileges into seperate files from the core license, we intended for this license to be script-friendly. 
-    
-Lets say you want to seperately sell the privileges of A. Offering a service to the web with your code. B. Allow resellers to resell the pre-Open Source codebase or C. Allow your customers to market their use of your software. You can auto-generate the EXTRASTUFF.txt file to fit with your specific needs. 
-    
-Alternatively, you might want to give different dates to every downloader. To do this, simply have a script write the the date in the CONVERSTIONDATE.txt file. 
+By pulling dates and privileges into seperate files from the core license, we intended for this license to be script-friendly.
+
+Lets say you want to seperately sell the privileges of A. Offering a service to the web with your code. B. Allow resellers to resell the pre-Open Source codebase or C. Allow your customers to market their use of your software. You can auto-generate the EXTRASTUFF.txt file to fit with your specific needs.
+
+Alternatively, you might want to give different dates to every downloader. To do this, simply have a script write the the date in the CONVERSTIONDATE.txt file.
 
