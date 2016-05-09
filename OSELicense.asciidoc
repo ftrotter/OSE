@@ -1,10 +1,10 @@
-= NOD Open Source Eventually License
+= Open Source Eventually License
 Fred Trotter <fred.trotter@gmail.com>
 :Author: Fred Trotter
 :Revision: .3
 
 
-= NOD Open Source Eventually License
+= Open Source Eventually License
 
 Version {revision}
 
@@ -231,14 +231,10 @@ WITH THE PRODUCTS OR THE USE OR OTHER DEALINGS IN THE PRODUCTS.
 4. Copyright and Trademarks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Copyright (C) 2013 Not Only Development Inc. The terms * Open Source
-Eventually™ and OSE™ * Open Source Eventually License™ and OSEL™ * NOD
-Open Source Eventually License™ and NODOSEL™
+Copyright (C) 2013 Fred Trotter The terms * Open Source
+Eventually™ and OSE™ * Open Source Eventually License™ and OSEL™ 
 
-And really, any other combination of Open Source Eventually Licnese and
-Not Only For Profit Development are trademarks used to refer exclusively
-to this license or other later versions of this license as released by
-Not Only Development, LLC and/or Fred Trotter. If you would like to use
+If you would like to use
 the term Open Source Eventually, then please also use these licenses,
 without modification. If you would like to use the idea, but want to
 change the contents of the license, then please use some other term than
@@ -246,6 +242,6 @@ change the contents of the license, then please use some other term than
 important to us that the developer and user community can rely on this
 licensing model as safe and reliable extension of the licenses that are
 already approved by the Creative Commons, the Free Software Foundation
-and the Open Source Initiative, so we will strictly enforce our
+and/or the Open Source Initiative, so we will strictly enforce our
 trademark and copyright licenses in order to ensure that there are no
 "look-a-like" licenses here.
