@@ -1,9 +1,9 @@
 OSE
 =======
 
-The NOD Open Source Eventually License. 
+The Open Source Eventually License. 
 
-<a href='https://github.com/ftrotter/OSE/blob/master/OSELicense.md'>Click here to read the license!</a>
+<a href='https://github.com/ftrotter/OSE/blob/master/OSELicense.asciidoc'>Click here to read the license!</a>
 
 An Open Source Eventually License allows a creator to license copyrights (etc) to a user that will become Open Source on a particular date. This is good for the user, because they end up getting good Open Source stuff, and they eventually have the freedom to change how the stuff works! This is good for the creator because they can ensure that they can pay the bills. This works especially well for data, software or other projects which have to be updated regularly!
 
@@ -52,7 +52,7 @@ There are well-established mechanisms for communicating licensing within our com
    * We use Asciidoc to write the file itself, to be compliant with meta-legal programming efforts
    * We are trying to work with meta-programming efforts like Common Accord http://commonaccord.org
 
-### How NOD OSE protects creators
+### How OSE protects creators
 
 The Licensor is protected by fairly restritive terms for project use, before the conversion to the Open Source license has occured
    * The user cannot share the Thing outside the company that purchased the OSE license
@@ -61,7 +61,7 @@ The Licensor is protected by fairly restritive terms for project use, before the
    * It is limited to internal use by the end user only
    * Sometimes, a Licensor might want to sell additional privileges for more money. In that case, there is a file called STARTINGLICENSE.txt where extra privileges or support warranties etc etc can be defined
 
-### How NOD OSE protects end-users
+### How OSE protects end-users
 
 Generally, end-users of licenses need to be protected against Licensors who do no understand the rules of mass-licensing (i.e. peer review of licenses produces trustable known-good options for both creators and consumers)
    * It forces Licensors to describe exactly what FOSS license is being used and when it takes effect.
